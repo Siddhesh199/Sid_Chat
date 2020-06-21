@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "727558663844",
+    "firebase_url": "https://sidchat-d2af8.firebaseio.com",
+    "project_id": "sidchat-d2af8",
+    "storage_bucket": "sidchat-d2af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727558663844:android:7438a47c8eecaf9e254031",
+        "android_client_info": {
+          "package_name": "com.example.sidchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727558663844-dl229rkpi5lobbsgb26bvc693fu4lm99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQNVpeBGA990k_Nyc1QbH-a00Iv0R-O-o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727558663844-dl229rkpi5lobbsgb26bvc693fu4lm99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
